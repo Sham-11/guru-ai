@@ -29,20 +29,6 @@ multi-region deployment), see `GURU_AI_Architecture.md` — that document descri
 target architecture; this repo implements a real, working subset of it end-to-end (documented
 honestly below), not the full blueprint.
 
-## Screenshots
-
-| Overview | Teacher Dashboard |
-|---|---|
-| ![Overview](./screenshots/Overview.png) | ![Teacher Dashboard](./screenshots/TeacherDashboard.png) |
-
-| Student Mode | Agent Architecture |
-|---|---|
-| ![Student Mode](./screenshots/AgentsDemo.png) | ![Agent Architecture](./screenshots/AgentArchitecture.png) |
-
-| Live Agents |
-|---|
-| ![Live Agents](./screenshots/LiveAgents.png) |
-
 ## Run it
 
 ### Requirements
@@ -99,7 +85,6 @@ guru-ai-build/
 │   ├── voice.ts                # Web Speech API (TTS) + mic recording (STT)
 │   └── offline/                # IndexedDB queue + sync manager (offline-first writes)
 ├── hooks/useOfflineSync.ts
-├── screenshots/                # app screenshots used in this README
 ├── backend/
 │   └── app/
 │       ├── agents/             # Lesson, Language, Quiz, Community Knowledge, Progress,
