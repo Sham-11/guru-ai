@@ -33,15 +33,15 @@ honestly below), not the full blueprint.
 
 | Overview | Teacher Dashboard |
 |---|---|
-| ![Overview](./screenshots/Screenshot 2026-07-06 171238.png) | ![Teacher Dashboard](./screenshots/Screenshot 2026-07-06 175725.png) |
+| ![Overview](./screenshots/Overview.png) | ![Teacher Dashboard](./screenshots/TeacherDashboard.png) |
 
 | Student Mode | Agent Architecture |
 |---|---|
-| ![Student Mode](./screenshots/Screenshot 2026-07-06 180308.png) | ![Agent Architecture](./screenshots/Screenshot 2026-07-06 180315.png) |
+| ![Student Mode](./screenshots/AgentsDemo.png) | ![Agent Architecture](./screenshots/AgentArchitecture.png) |
 
 | Live Agents |
 |---|
-| ![Live Agents](./screenshots/Screenshot 2026-07-06 180335.png) |
+| ![Live Agents](./screenshots/LiveAgents.png) |
 
 ## Run it
 
